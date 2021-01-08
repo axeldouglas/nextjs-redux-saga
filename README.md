@@ -387,3 +387,12 @@ const mapDispatchToProps = {};
 
 export default connect(mapStateToProps, mapDispatchToProps)(Home);
 ```
+
+# Eslint & Prettier
+...
+Todo
+
+# References
+- [Official redux-saga exemple](https://github.com/vercel/next.js/tree/canary/examples/with-redux-saga)
+- [Como adicionar o Redux ao Next.js](https://dev.to/jullymac/next-js-redux-a93)
+- [Using Redux Saga with Next.js](https://medium.com/@victor36max/using-redux-saga-with-next-js-2b5d5add1ec6)
